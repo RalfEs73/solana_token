@@ -1,2 +1,0 @@
-https://raw.githubusercontent.com/RalfEs73/solana_token/refs/heads/main/Celestial/metadata.json
-https://raw.githubusercontent.com/RalfEs73/solana_token/refs/heads/main/Celestial/logo.png
